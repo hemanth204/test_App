@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 13:08:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>08a4270ddb837b40351059d0cf9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_69202_temp_app_test.x_69202_temp_app.test_user</sys_name>
+        <sys_package display_value="Temp App" source="x_69202_temp_app">bd746fc5db837b40351059d0cf961959</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Temp App">bd746fc5db837b40351059d0cf961959</sys_scope>
+        <sys_security_acl display_value="x_69202_temp_app_test">44a4270ddb837b40351059d0cf9619db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_08a4270ddb837b40351059d0cf9619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 13:08:28</sys_updated_on>
+        <sys_user_role display_value="x_69202_temp_app.test_user" name="x_69202_temp_app.test_user">6794270ddb837b40351059d0cf96196e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
